@@ -1,0 +1,5 @@
+# Librería para crear aplicaciones web interactivas en Python
+streamlit
+
+# Para instalar las librerías necesarias, usar el siguiente comando en la terminal:
+# pip install -r requirements.txt
